@@ -1,0 +1,19 @@
+# End your baseURL with a `/` trailing slash, e.g. `https://example.com/`.
+baseURL = "/"
+
+title = "Kelas CI3 | STMIK Widya Utama"
+languageCode = "en-us"
+theme = "code"
+
+[params]
+  homeTitle = "Dokumentasi Materi"
+homeDescription = """
+halaman ini berisi dokumentasi materi terkait perkuliahan di Kelas CI3 STMIK Widya Utama.
+"""
+  footer = "<a href=\"https://roynaldi3301.github.io\">❤ RoiDev</a>"
+  feedbackLink = "mailto:prasbhara0604@gmail.com"
+  [params.categoryColors]
+    algoritma = "#DB1514"
+    matematika-diskrit = "#E37400"
+    manajemen = "#5B6118"
+    dasar-akuntansi = "#5F6368"
